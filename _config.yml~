@@ -17,8 +17,12 @@ defaults:
       path: ""
     values:
       layout: "default"
-            
+      
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+baseurl: /basicRunner
+url: iconrunner-ryan.github.io
+repository: iconrunner-ryan.github.io/basicRunner
