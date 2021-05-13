@@ -1,2 +1,2 @@
 # basicRunner
-Basic SSG
+Basic SSG Running
