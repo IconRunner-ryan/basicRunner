@@ -23,6 +23,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-baseurl: /basicRunner
+#baseurl: /basicRunner
+baseurl:
 url: iconrunner-ryan.github.io
 repository: iconrunner-ryan.github.io/basicRunner
